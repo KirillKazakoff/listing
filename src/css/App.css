@@ -66,6 +66,7 @@
 .level-high {
     background-color: greenyellow;
 }
+
 /* view-module */
 
 .cards-view_module .ShopCard {
@@ -110,3 +111,15 @@
     order: 3;
 }
 
+.IconSwitch {
+    margin-left: auto;
+    display: block;
+}
+
+.material-icons.md-48 {
+    font-size: 48px;
+}
+
+.material-icons.md-36 {
+    font-size: 36px;
+}

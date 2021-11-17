@@ -1,7 +1,8 @@
+/** @format */
+
 import { nanoid } from 'nanoid';
 import React from 'react';
 import ShopCard from './ShopCard/ShopCard';
-// import cards from './cards';
 import data from '../../data.json';
 
 export default function Listing() {
