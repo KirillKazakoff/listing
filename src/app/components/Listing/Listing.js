@@ -4,7 +4,6 @@ import { nanoid } from 'nanoid';
 import React from 'react';
 import ShopCard from './ShopCard/ShopCard';
 import data from '../../data.json';
-// import Error from './Error';
 
 export default function Listing() {
     const cardList = data.map((card) => {
